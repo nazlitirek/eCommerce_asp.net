@@ -1,7 +1,9 @@
-﻿using eCommerce.Data;
+﻿using Amazon.OpsWorks.Model;
+using eCommerce.Data;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
@@ -24,8 +26,9 @@ namespace eCommerce
 		// This method gets called by the runtime. Use this method to add services to the container.
 		public void ConfigureServices(IServiceCollection services)
 		{
+			
 			//DbContext Configuration
-			services.AddDbContext<AppDbContex>();
+			services.AddDbContext<AppDbContext>(options => options.UseSqlServer(Configuration.GetConnectionString("DefaultConnectionString")));
 			services.AddControllersWithViews();
 		}
 
@@ -53,9 +56,13 @@ namespace eCommerce
 			{
 				endpoints.MapControllerRoute(
 					name: "default",
-					pattern: "{controller=Movies}/{action=Index}/{id?}");
+					pattern: "{controller=Home}/{action=Index}/{id?}");
 			});
 
-			}
+			AppDbInitializer.Seed(app);
+
+		}
+
+		
 	}
 }
