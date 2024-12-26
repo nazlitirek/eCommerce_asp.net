@@ -33,6 +33,7 @@ namespace eCommerce
 
             //services configuration
             services.AddScoped<IActorsService,ActorsService>();
+            services.AddScoped<IProducersService,ProducersService>();
 
 
 

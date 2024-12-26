@@ -46,16 +46,8 @@ namespace eCommerce.Controllers
             }
             await _service.AddAsync(actor);
 
-            if (_service.isAdded(actor) == 0)
-            {
-                Console.WriteLine("Actor could not be added.");
-            }
-            else
-            {
-                Console.WriteLine("Actor added successfully.");
-            }
             return RedirectToAction(nameof(Index));
-            
+
         }
         
         //Get: Actors/Details/1
@@ -63,7 +55,7 @@ namespace eCommerce.Controllers
         {
             var actorDetails = await _service.GetByIdAsync(id);
 
-            if (actorDetails == null) return View("Empty");
+            if (actorDetails == null) return View("NotFound");
             return View(actorDetails);
         }
         //Get: Actors/Edit
@@ -93,6 +85,23 @@ namespace eCommerce.Controllers
                 return View(actor);
             }
             await _service.UpdateAsync(id, actor);
+            return RedirectToAction(nameof(Index));
+        }
+        //Get: Actors/Delete
+        public async Task<IActionResult> Delete(int id)
+        {
+            var actorDetails = await _service.GetByIdAsync(id);
+            if (actorDetails == null) return View("NotFound");
+            return View(actorDetails);
+        }
+
+        [HttpPost, ActionName("Delete")]
+        public async Task<IActionResult> DeleteConfirmed(int id)
+        {
+            var actorDetails = await _service.GetByIdAsync(id);
+            if (actorDetails == null) return View("NotFound");
+
+            await _service.DeleteAsync(id);
             return RedirectToAction(nameof(Index));
         }
 
