@@ -3,64 +3,60 @@
   "WorkspaceRootPath": "C:\\Users\\tirek\\OneDrive\\Masa\u00FCst\u00FC\\eCommerce\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BED50341-012D-47DA-B617-1567DE5D33A4}|eCommerce.csproj|c:\\users\\tirek\\onedrive\\masa\u00FCst\u00FC\\ecommerce\\views\\actors\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BED50341-012D-47DA-B617-1567DE5D33A4}|eCommerce.csproj|solutionrelative:views\\actors\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{BED50341-012D-47DA-B617-1567DE5D33A4}|eCommerce.csproj|c:\\users\\tirek\\onedrive\\masa\u00FCst\u00FC\\ecommerce\\views\\movies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BED50341-012D-47DA-B617-1567DE5D33A4}|eCommerce.csproj|solutionrelative:views\\movies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BED50341-012D-47DA-B617-1567DE5D33A4}|eCommerce.csproj|c:\\users\\tirek\\onedrive\\masa\u00FCst\u00FC\\ecommerce\\views\\cinemas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BED50341-012D-47DA-B617-1567DE5D33A4}|eCommerce.csproj|solutionrelative:views\\cinemas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BED50341-012D-47DA-B617-1567DE5D33A4}|eCommerce.csproj|c:\\users\\tirek\\onedrive\\masa\u00FCst\u00FC\\ecommerce\\views\\actors\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{BED50341-012D-47DA-B617-1567DE5D33A4}|eCommerce.csproj|solutionrelative:views\\actors\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BED50341-012D-47DA-B617-1567DE5D33A4}|eCommerce.csproj|c:\\users\\tirek\\onedrive\\masa\u00FCst\u00FC\\ecommerce\\controllers\\producerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BED50341-012D-47DA-B617-1567DE5D33A4}|eCommerce.csproj|solutionrelative:controllers\\producerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BED50341-012D-47DA-B617-1567DE5D33A4}|eCommerce.csproj|c:\\users\\tirek\\onedrive\\masa\u00FCst\u00FC\\ecommerce\\controllers\\actorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BED50341-012D-47DA-B617-1567DE5D33A4}|eCommerce.csproj|solutionrelative:controllers\\actorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BED50341-012D-47DA-B617-1567DE5D33A4}|eCommerce.csproj|c:\\users\\tirek\\onedrive\\masa\u00FCst\u00FC\\ecommerce\\data\\services\\producersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BED50341-012D-47DA-B617-1567DE5D33A4}|eCommerce.csproj|solutionrelative:data\\services\\producersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BED50341-012D-47DA-B617-1567DE5D33A4}|eCommerce.csproj|c:\\users\\tirek\\onedrive\\masa\u00FCst\u00FC\\ecommerce\\views\\producers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BED50341-012D-47DA-B617-1567DE5D33A4}|eCommerce.csproj|solutionrelative:views\\producers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BED50341-012D-47DA-B617-1567DE5D33A4}|eCommerce.csproj|c:\\users\\tirek\\onedrive\\masa\u00FCst\u00FC\\ecommerce\\models\\producer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BED50341-012D-47DA-B617-1567DE5D33A4}|eCommerce.csproj|solutionrelative:models\\producer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BED50341-012D-47DA-B617-1567DE5D33A4}|eCommerce.csproj|C:\\Users\\tirek\\OneDrive\\Masa\u00FCst\u00FC\\eCommerce\\models\\actor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BED50341-012D-47DA-B617-1567DE5D33A4}|eCommerce.csproj|solutionrelative:models\\actor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BED50341-012D-47DA-B617-1567DE5D33A4}|eCommerce.csproj|c:\\users\\tirek\\onedrive\\masa\u00FCst\u00FC\\ecommerce\\data\\services\\iproducersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BED50341-012D-47DA-B617-1567DE5D33A4}|eCommerce.csproj|solutionrelative:data\\services\\iproducersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BED50341-012D-47DA-B617-1567DE5D33A4}|eCommerce.csproj|c:\\users\\tirek\\onedrive\\masa\u00FCst\u00FC\\ecommerce\\views\\producers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BED50341-012D-47DA-B617-1567DE5D33A4}|eCommerce.csproj|solutionrelative:views\\producers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BED50341-012D-47DA-B617-1567DE5D33A4}|eCommerce.csproj|c:\\users\\tirek\\onedrive\\masa\u00FCst\u00FC\\ecommerce\\views\\producers\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BED50341-012D-47DA-B617-1567DE5D33A4}|eCommerce.csproj|solutionrelative:views\\producers\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BED50341-012D-47DA-B617-1567DE5D33A4}|eCommerce.csproj|c:\\users\\tirek\\onedrive\\masa\u00FCst\u00FC\\ecommerce\\views\\actors\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BED50341-012D-47DA-B617-1567DE5D33A4}|eCommerce.csproj|solutionrelative:views\\actors\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{BED50341-012D-47DA-B617-1567DE5D33A4}|eCommerce.csproj|c:\\users\\tirek\\onedrive\\masa\u00FCst\u00FC\\ecommerce\\views\\shared\\_createitem.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BED50341-012D-47DA-B617-1567DE5D33A4}|eCommerce.csproj|solutionrelative:views\\shared\\_createitem.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BED50341-012D-47DA-B617-1567DE5D33A4}|eCommerce.csproj|c:\\users\\tirek\\onedrive\\masa\u00FCst\u00FC\\ecommerce\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BED50341-012D-47DA-B617-1567DE5D33A4}|eCommerce.csproj|solutionrelative:startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BED50341-012D-47DA-B617-1567DE5D33A4}|eCommerce.csproj|C:\\Users\\tirek\\OneDrive\\Masa\u00FCst\u00FC\\eCommerce\\data\\base\\entitybaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BED50341-012D-47DA-B617-1567DE5D33A4}|eCommerce.csproj|solutionrelative:data\\base\\entitybaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BED50341-012D-47DA-B617-1567DE5D33A4}|eCommerce.csproj|c:\\users\\tirek\\onedrive\\masa\u00FCst\u00FC\\ecommerce\\data\\services\\moviesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BED50341-012D-47DA-B617-1567DE5D33A4}|eCommerce.csproj|solutionrelative:data\\services\\moviesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BED50341-012D-47DA-B617-1567DE5D33A4}|eCommerce.csproj|C:\\Users\\tirek\\OneDrive\\Masa\u00FCst\u00FC\\eCommerce\\data\\base\\ientitybaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BED50341-012D-47DA-B617-1567DE5D33A4}|eCommerce.csproj|solutionrelative:data\\base\\ientitybaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BED50341-012D-47DA-B617-1567DE5D33A4}|eCommerce.csproj|C:\\Users\\tirek\\OneDrive\\Masa\u00FCst\u00FC\\eCommerce\\views\\movies\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BED50341-012D-47DA-B617-1567DE5D33A4}|eCommerce.csproj|solutionrelative:views\\movies\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BED50341-012D-47DA-B617-1567DE5D33A4}|eCommerce.csproj|C:\\Users\\tirek\\OneDrive\\Masa\u00FCst\u00FC\\eCommerce\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BED50341-012D-47DA-B617-1567DE5D33A4}|eCommerce.csproj|solutionrelative:controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BED50341-012D-47DA-B617-1567DE5D33A4}|eCommerce.csproj|c:\\users\\tirek\\onedrive\\masa\u00FCst\u00FC\\ecommerce\\data\\services\\imoviesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BED50341-012D-47DA-B617-1567DE5D33A4}|eCommerce.csproj|solutionrelative:data\\services\\imoviesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BED50341-012D-47DA-B617-1567DE5D33A4}|eCommerce.csproj|c:\\users\\tirek\\onedrive\\masa\u00FCst\u00FC\\ecommerce\\data\\viewmodels\\newmoviedropdownsvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BED50341-012D-47DA-B617-1567DE5D33A4}|eCommerce.csproj|solutionrelative:data\\viewmodels\\newmoviedropdownsvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BED50341-012D-47DA-B617-1567DE5D33A4}|eCommerce.csproj|C:\\Users\\tirek\\OneDrive\\Masa\u00FCst\u00FC\\eCommerce\\data\\viewmodels\\newmovievm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BED50341-012D-47DA-B617-1567DE5D33A4}|eCommerce.csproj|solutionrelative:data\\viewmodels\\newmovievm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BED50341-012D-47DA-B617-1567DE5D33A4}|eCommerce.csproj|C:\\Users\\tirek\\OneDrive\\Masa\u00FCst\u00FC\\eCommerce\\views\\movies\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BED50341-012D-47DA-B617-1567DE5D33A4}|eCommerce.csproj|solutionrelative:views\\movies\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BED50341-012D-47DA-B617-1567DE5D33A4}|eCommerce.csproj|C:\\Users\\tirek\\OneDrive\\Masa\u00FCst\u00FC\\eCommerce\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BED50341-012D-47DA-B617-1567DE5D33A4}|eCommerce.csproj|solutionrelative:models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BED50341-012D-47DA-B617-1567DE5D33A4}|eCommerce.csproj|C:\\Users\\tirek\\OneDrive\\Masa\u00FCst\u00FC\\eCommerce\\models\\actor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BED50341-012D-47DA-B617-1567DE5D33A4}|eCommerce.csproj|solutionrelative:models\\actor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -70,7 +66,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 12,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -78,198 +74,182 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "IProducersService.cs",
-              "DocumentMoniker": "C:\\Users\\tirek\\OneDrive\\Masa\u00FCst\u00FC\\eCommerce\\Data\\Services\\IProducersService.cs",
-              "RelativeDocumentMoniker": "Data\\Services\\IProducersService.cs",
-              "ToolTip": "C:\\Users\\tirek\\OneDrive\\Masa\u00FCst\u00FC\\eCommerce\\Data\\Services\\IProducersService.cs",
-              "RelativeToolTip": "Data\\Services\\IProducersService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAABBAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-26T21:52:24.488Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\tirek\\OneDrive\\Masa\u00FCst\u00FC\\eCommerce\\Views\\Producers\\Create.cshtml",
-              "RelativeDocumentMoniker": "Views\\Producers\\Create.cshtml",
-              "ToolTip": "C:\\Users\\tirek\\OneDrive\\Masa\u00FCst\u00FC\\eCommerce\\Views\\Producers\\Create.cshtml",
-              "RelativeToolTip": "Views\\Producers\\Create.cshtml",
-              "ViewState": "AQIAACcAAAAAAAAAAAAAAA4AAAAQAAAA",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\tirek\\OneDrive\\Masa\u00FCst\u00FC\\eCommerce\\Views\\Actors\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Actors\\Index.cshtml",
+              "ToolTip": "C:\\Users\\tirek\\OneDrive\\Masa\u00FCst\u00FC\\eCommerce\\Views\\Actors\\Index.cshtml",
+              "RelativeToolTip": "Views\\Actors\\Index.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAACwAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-26T22:48:52.84Z",
+              "WhenOpened": "2024-12-29T13:22:04.902Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\tirek\\OneDrive\\Masa\u00FCst\u00FC\\eCommerce\\Views\\Actors\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Actors\\Index.cshtml",
-              "ToolTip": "C:\\Users\\tirek\\OneDrive\\Masa\u00FCst\u00FC\\eCommerce\\Views\\Actors\\Index.cshtml",
-              "RelativeToolTip": "Views\\Actors\\Index.cshtml",
-              "ViewState": "AQIAABUAAAAAAAAAAAAAAC8AAAAIAAAA",
+              "DocumentMoniker": "C:\\Users\\tirek\\OneDrive\\Masa\u00FCst\u00FC\\eCommerce\\Views\\Cinemas\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Cinemas\\Index.cshtml",
+              "ToolTip": "C:\\Users\\tirek\\OneDrive\\Masa\u00FCst\u00FC\\eCommerce\\Views\\Cinemas\\Index.cshtml",
+              "RelativeToolTip": "Views\\Cinemas\\Index.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACYAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-26T22:43:51.034Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\tirek\\OneDrive\\Masa\u00FCst\u00FC\\eCommerce\\Views\\Producers\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Producers\\Index.cshtml",
-              "ToolTip": "C:\\Users\\tirek\\OneDrive\\Masa\u00FCst\u00FC\\eCommerce\\Views\\Producers\\Index.cshtml",
-              "RelativeToolTip": "Views\\Producers\\Index.cshtml",
-              "ViewState": "AQIAACcAAAAAAAAAAAAAACwAAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-26T22:36:58.258Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\tirek\\OneDrive\\Masa\u00FCst\u00FC\\eCommerce\\Views\\Actors\\Details.cshtml",
-              "RelativeDocumentMoniker": "Views\\Actors\\Details.cshtml",
-              "ToolTip": "C:\\Users\\tirek\\OneDrive\\Masa\u00FCst\u00FC\\eCommerce\\Views\\Actors\\Details.cshtml",
-              "RelativeToolTip": "Views\\Actors\\Details.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-26T22:34:51.092Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\tirek\\OneDrive\\Masa\u00FCst\u00FC\\eCommerce\\Views\\Producers\\Details.cshtml",
-              "RelativeDocumentMoniker": "Views\\Producers\\Details.cshtml",
-              "ToolTip": "C:\\Users\\tirek\\OneDrive\\Masa\u00FCst\u00FC\\eCommerce\\Views\\Producers\\Details.cshtml",
-              "RelativeToolTip": "Views\\Producers\\Details.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAwAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-26T22:34:26.983Z",
+              "WhenOpened": "2024-12-29T13:22:03.269Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "ActorsController.cs",
-              "DocumentMoniker": "C:\\Users\\tirek\\OneDrive\\Masa\u00FCst\u00FC\\eCommerce\\Controllers\\ActorsController.cs",
-              "RelativeDocumentMoniker": "Controllers\\ActorsController.cs",
-              "ToolTip": "C:\\Users\\tirek\\OneDrive\\Masa\u00FCst\u00FC\\eCommerce\\Controllers\\ActorsController.cs",
-              "RelativeToolTip": "Controllers\\ActorsController.cs",
-              "ViewState": "AQIAACIAAAAAAAAAAAAkwDIAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-26T22:32:34.427Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ProducersController.cs",
-              "DocumentMoniker": "C:\\Users\\tirek\\OneDrive\\Masa\u00FCst\u00FC\\eCommerce\\Controllers\\ProducersController.cs",
-              "RelativeDocumentMoniker": "Controllers\\ProducersController.cs",
-              "ToolTip": "C:\\Users\\tirek\\OneDrive\\Masa\u00FCst\u00FC\\eCommerce\\Controllers\\ProducersController.cs",
-              "RelativeToolTip": "Controllers\\ProducersController.cs",
-              "ViewState": "AQIAAC0AAAAAAAAAAAAAADIAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-26T22:27:03.388Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Startup.cs",
-              "DocumentMoniker": "C:\\Users\\tirek\\OneDrive\\Masa\u00FCst\u00FC\\eCommerce\\Startup.cs",
-              "RelativeDocumentMoniker": "Startup.cs",
-              "ToolTip": "C:\\Users\\tirek\\OneDrive\\Masa\u00FCst\u00FC\\eCommerce\\Startup.cs",
-              "RelativeToolTip": "Startup.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAAQwCMAAABFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-26T22:26:08.061Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ProducersService.cs",
-              "DocumentMoniker": "C:\\Users\\tirek\\OneDrive\\Masa\u00FCst\u00FC\\eCommerce\\Data\\Services\\ProducersService.cs",
-              "RelativeDocumentMoniker": "Data\\Services\\ProducersService.cs",
-              "ToolTip": "C:\\Users\\tirek\\OneDrive\\Masa\u00FCst\u00FC\\eCommerce\\Data\\Services\\ProducersService.cs",
-              "RelativeToolTip": "Data\\Services\\ProducersService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-26T21:53:56.69Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Producer.cs",
-              "DocumentMoniker": "C:\\Users\\tirek\\OneDrive\\Masa\u00FCst\u00FC\\eCommerce\\Models\\Producer.cs",
-              "RelativeDocumentMoniker": "Models\\Producer.cs",
-              "ToolTip": "C:\\Users\\tirek\\OneDrive\\Masa\u00FCst\u00FC\\eCommerce\\Models\\Producer.cs",
-              "RelativeToolTip": "Models\\Producer.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAgwBUAAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-26T21:52:58.885Z",
+              "Title": "_CreateItem.cshtml",
+              "DocumentMoniker": "C:\\Users\\tirek\\OneDrive\\Masa\u00FCst\u00FC\\eCommerce\\Views\\Shared\\_CreateItem.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_CreateItem.cshtml",
+              "ToolTip": "C:\\Users\\tirek\\OneDrive\\Masa\u00FCst\u00FC\\eCommerce\\Views\\Shared\\_CreateItem.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_CreateItem.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-29T13:20:20.042Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\tirek\\OneDrive\\Masa\u00FCst\u00FC\\eCommerce\\Views\\Actors\\Create.cshtml",
-              "RelativeDocumentMoniker": "Views\\Actors\\Create.cshtml",
-              "ToolTip": "C:\\Users\\tirek\\OneDrive\\Masa\u00FCst\u00FC\\eCommerce\\Views\\Actors\\Create.cshtml",
-              "RelativeToolTip": "Views\\Actors\\Create.cshtml",
-              "ViewState": "AQIAAB0AAAAAAAAAAAAcwCkAAAAOAAAA",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\tirek\\OneDrive\\Masa\u00FCst\u00FC\\eCommerce\\Views\\Movies\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Movies\\Index.cshtml",
+              "ToolTip": "C:\\Users\\tirek\\OneDrive\\Masa\u00FCst\u00FC\\eCommerce\\Views\\Movies\\Index.cshtml",
+              "RelativeToolTip": "Views\\Movies\\Index.cshtml",
+              "ViewState": "AQIAACgAAAAAAAAAAAAAAEAAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-26T21:47:42.894Z",
+              "WhenOpened": "2024-12-28T22:23:29.705Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "EntityBaseRepository.cs",
-              "DocumentMoniker": "C:\\Users\\tirek\\OneDrive\\Masa\u00FCst\u00FC\\eCommerce\\Data\\Base\\EntityBaseRepository.cs",
-              "RelativeDocumentMoniker": "Data\\Base\\EntityBaseRepository.cs",
-              "ToolTip": "C:\\Users\\tirek\\OneDrive\\Masa\u00FCst\u00FC\\eCommerce\\Data\\Base\\EntityBaseRepository.cs",
-              "RelativeToolTip": "Data\\Base\\EntityBaseRepository.cs",
-              "ViewState": "AQIAACMAAAAAAAAAAADwvykAAAAAAAAA",
+              "DocumentIndex": 4,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\tirek\\OneDrive\\Masa\u00FCst\u00FC\\eCommerce\\Startup.cs",
+              "RelativeDocumentMoniker": "Startup.cs",
+              "ToolTip": "C:\\Users\\tirek\\OneDrive\\Masa\u00FCst\u00FC\\eCommerce\\Startup.cs",
+              "RelativeToolTip": "Startup.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAhwCMAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-26T20:53:49.349Z",
+              "WhenOpened": "2024-12-29T13:10:41.911Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "IEntityBaseRepository.cs",
-              "DocumentMoniker": "C:\\Users\\tirek\\OneDrive\\Masa\u00FCst\u00FC\\eCommerce\\Data\\Base\\IEntityBaseRepository.cs",
-              "RelativeDocumentMoniker": "Data\\Base\\IEntityBaseRepository.cs",
-              "ToolTip": "C:\\Users\\tirek\\OneDrive\\Masa\u00FCst\u00FC\\eCommerce\\Data\\Base\\IEntityBaseRepository.cs",
-              "RelativeToolTip": "Data\\Base\\IEntityBaseRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAMAAAA",
+              "DocumentIndex": 8,
+              "Title": "IMoviesService.cs",
+              "DocumentMoniker": "C:\\Users\\tirek\\OneDrive\\Masa\u00FCst\u00FC\\eCommerce\\Data\\Services\\IMoviesService.cs",
+              "RelativeDocumentMoniker": "Data\\Services\\IMoviesService.cs",
+              "ToolTip": "C:\\Users\\tirek\\OneDrive\\Masa\u00FCst\u00FC\\eCommerce\\Data\\Services\\IMoviesService.cs",
+              "RelativeToolTip": "Data\\Services\\IMoviesService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-26T20:50:38.073Z"
+              "WhenOpened": "2024-12-29T12:54:36.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MoviesService.cs",
+              "DocumentMoniker": "C:\\Users\\tirek\\OneDrive\\Masa\u00FCst\u00FC\\eCommerce\\Data\\Services\\MoviesService.cs",
+              "RelativeDocumentMoniker": "Data\\Services\\MoviesService.cs",
+              "ToolTip": "C:\\Users\\tirek\\OneDrive\\Masa\u00FCst\u00FC\\eCommerce\\Data\\Services\\MoviesService.cs",
+              "RelativeToolTip": "Data\\Services\\MoviesService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T12:55:17.88Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "MoviesController.cs",
+              "DocumentMoniker": "C:\\Users\\tirek\\OneDrive\\Masa\u00FCst\u00FC\\eCommerce\\Controllers\\MoviesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MoviesController.cs",
+              "ToolTip": "C:\\Users\\tirek\\OneDrive\\Masa\u00FCst\u00FC\\eCommerce\\Controllers\\MoviesController.cs",
+              "RelativeToolTip": "Controllers\\MoviesController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAxwCMAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T20:01:27.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\tirek\\OneDrive\\Masa\u00FCst\u00FC\\eCommerce\\Views\\Movies\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Movies\\Create.cshtml",
+              "ToolTip": "C:\\Users\\tirek\\OneDrive\\Masa\u00FCst\u00FC\\eCommerce\\Views\\Movies\\Create.cshtml",
+              "RelativeToolTip": "Views\\Movies\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-29T12:19:29.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "NewMovieDropdownsVM.cs",
+              "DocumentMoniker": "C:\\Users\\tirek\\OneDrive\\Masa\u00FCst\u00FC\\eCommerce\\Data\\ViewModels\\NewMovieDropdownsVM.cs",
+              "RelativeDocumentMoniker": "Data\\ViewModels\\NewMovieDropdownsVM.cs",
+              "ToolTip": "C:\\Users\\tirek\\OneDrive\\Masa\u00FCst\u00FC\\eCommerce\\Data\\ViewModels\\NewMovieDropdownsVM.cs",
+              "RelativeToolTip": "Data\\ViewModels\\NewMovieDropdownsVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T12:49:08.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "NewMovieVM.cs",
+              "DocumentMoniker": "C:\\Users\\tirek\\OneDrive\\Masa\u00FCst\u00FC\\eCommerce\\Data\\ViewModels\\NewMovieVM.cs",
+              "RelativeDocumentMoniker": "Data\\ViewModels\\NewMovieVM.cs",
+              "ToolTip": "C:\\Users\\tirek\\OneDrive\\Masa\u00FCst\u00FC\\eCommerce\\Data\\ViewModels\\NewMovieVM.cs",
+              "RelativeToolTip": "Data\\ViewModels\\NewMovieVM.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAADwvwkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T12:25:35.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\tirek\\OneDrive\\Masa\u00FCst\u00FC\\eCommerce\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "Models\\Movie.cs",
+              "ToolTip": "C:\\Users\\tirek\\OneDrive\\Masa\u00FCst\u00FC\\eCommerce\\Models\\Movie.cs",
+              "RelativeToolTip": "Models\\Movie.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAA6wBMAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T12:27:30.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "Actor.cs",
               "DocumentMoniker": "C:\\Users\\tirek\\OneDrive\\Masa\u00FCst\u00FC\\eCommerce\\Models\\Actor.cs",
               "RelativeDocumentMoniker": "Models\\Actor.cs",
               "ToolTip": "C:\\Users\\tirek\\OneDrive\\Masa\u00FCst\u00FC\\eCommerce\\Models\\Actor.cs",
               "RelativeToolTip": "Models\\Actor.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAtAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-26T19:09:57.343Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-29T12:27:36.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\tirek\\OneDrive\\Masa\u00FCst\u00FC\\eCommerce\\Views\\Movies\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Movies\\Details.cshtml",
+              "ToolTip": "C:\\Users\\tirek\\OneDrive\\Masa\u00FCst\u00FC\\eCommerce\\Views\\Movies\\Details.cshtml",
+              "RelativeToolTip": "Views\\Movies\\Details.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAADQAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-28T22:19:19.236Z"
             }
           ]
         }

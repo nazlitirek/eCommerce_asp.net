@@ -1,4 +1,5 @@
-﻿using eCommerce.Models;
+﻿using System.Linq.Expressions;
+using eCommerce.Models;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.ChangeTracking;
 
@@ -29,7 +30,16 @@ namespace eCommerce.Data.Base
 
 
         public async Task<IEnumerable<T>> GetAllAsync() => await _context.Set<T>().ToListAsync();
-        public async Task<T> GetByIdAsync(int id) => await _context.Set<T>().FirstOrDefaultAsync(n => n.Id == id);
+
+		public async Task<IEnumerable<T>> GetAllAsync(params Expression<Func<T, object>>[] includeProperties)
+		{
+            IQueryable<T> query = _context.Set<T>();
+            query = includeProperties.Aggregate(query, (current,includeProperty) => current.Include(includeProperty));
+            return await query.ToListAsync();
+
+		}
+
+		public async Task<T> GetByIdAsync(int id) => await _context.Set<T>().FirstOrDefaultAsync(n => n.Id == id);
 
         public async Task UpdateAsync(int id, T entity)
         {

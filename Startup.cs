@@ -1,6 +1,6 @@
 ﻿using eCommerce.Data;
 using eCommerce.Data.Services;
-
+using eTickets.Data.Services;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
@@ -34,10 +34,11 @@ namespace eCommerce
             //services configuration
             services.AddScoped<IActorsService,ActorsService>();
             services.AddScoped<IProducersService,ProducersService>();
+			services.AddScoped<ICinemasService, CinemasService>();
+			services.AddScoped<IMoviesService, MoviesService>();
 
 
-
-            services.AddControllersWithViews();
+			services.AddControllersWithViews();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

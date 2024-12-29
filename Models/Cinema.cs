@@ -1,8 +1,9 @@
 ﻿using System.ComponentModel.DataAnnotations;
+using eCommerce.Data.Base;
 
 namespace eCommerce.Models
 {
-	public class Cinema
+	public class Cinema:IEntityBase
 	{
 		[Key]
 		public int Id { get; set; }
